@@ -3,7 +3,6 @@
 #include <unistd.h> /* getpid */
 #include <sys/time.h> /* timeval */
 
-#include "uid.h"
 #include "schtask.h"
 
 struct task
